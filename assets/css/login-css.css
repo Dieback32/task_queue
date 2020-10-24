@@ -1,0 +1,25 @@
+.login-wrapper{
+    width: 320px;
+    height: inherit;
+    -webkit-border-radius: 3px 3px 3px 3px;
+    -moz-border-radius: 3px 3px 3px 3px;
+    border-radius: 3px 3px 3px 3px;
+    border: 1px solid #ccc;
+    margin: 0 auto;
+    padding-bottom: 20px;
+}
+.login-header{
+    height: 35px;
+    width: 100%;
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 20px;
+}
+.login-content{
+    margin-right: 20px;
+    margin-left: 20px;
+}
+.login-tbl table{
+    border-collapse:separate;
+    border-spacing: 0 1em;
+}
+
